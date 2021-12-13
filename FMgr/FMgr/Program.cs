@@ -846,7 +846,7 @@ namespace FMgr
                 isWorks = false;
             };
 
-        }//static void CHDIR(string arg)
+        }//static void CHDIR(string arg);
 
         static void Main()
         {
